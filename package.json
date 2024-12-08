@@ -1,0 +1,16 @@
+{
+  "name": "filesharingbot",
+  "version": "1.0.0",
+  "description": "A simple Telegram File Sharing Bot Bot using Telegraf",
+  "scripts": {
+    "start": "node FileSharing/index"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "mongodb": "^5.7.0"
+  },
+  "author": "Anonymous",
+  "license": "GNU MIT"
+}
+
+
